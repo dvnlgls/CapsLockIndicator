@@ -1,0 +1,9 @@
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe.config
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.pdb
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csprojResolveAssemblyReference.cache
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.Properties.Resources.resources
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csproj.GenerateResource.Cache
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.exe
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.pdb
+D:\Projects\zzz_Archived\Caps Lock\New version\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.CapsLock.resources
